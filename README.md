@@ -1,8 +1,19 @@
-# React + Vite
+# Scout
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern file manager system built with React and TypeScript, featuring an intuitive user interface and seamless file organization capabilities.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Intuitive File Management**: Easy-to-use interface for managing files and folders
+- **Breadcrumb Navigation**: Clear path visualization and quick navigation
+- **Modern UI**: Built with Tailwind CSS for a responsive and clean design
+- **TypeScript Support**: Full type safety and better developer experience
+- **Real-time Updates**: Instant reflection of file system changes
+
+## 🛠️ Tech Stack
+
+- React 18.3
+- TypeScript
+- Tailwind CSS
+- Vite
+- ESLint
