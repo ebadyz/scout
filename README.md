@@ -1,4 +1,4 @@
-# Scout
+# Juggler
 
 A modern file manager system built with React and TypeScript, featuring an intuitive user interface and seamless file organization capabilities.
 
